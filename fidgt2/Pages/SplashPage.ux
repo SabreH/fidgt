@@ -1,0 +1,18 @@
+<Page ux:Class="SplashPage">
+	<Router ux:Dependency="router" />
+
+	<JavaScript File="SplashPage.js" />
+
+	<DockPanel ClipToBounds="true">
+		<Image Layer="Background" File="../img/bg1.png" StretchMode="UniformToFill">
+		</Image>
+
+		<Grid RowCount="2">
+			<StackPanel Alignment="VerticalCenter">
+				<Text Alignment="HorizontalCenter" FontSize="70">Fidgt</Text>
+			</StackPanel>
+<Button Text="Home" Clicked="{splashClicked}" />
+
+		</Grid>
+	</DockPanel>
+</Page>

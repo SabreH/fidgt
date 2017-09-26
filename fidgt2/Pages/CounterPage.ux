@@ -1,0 +1,6 @@
+<Page ux:Class="CounterPage">
+<Router ux:Dependency="router" />
+<JavaScript File="CounterPage.js" />
+<Text Clicked="{homeClicked}">Go Back</Text>
+
+</Page>

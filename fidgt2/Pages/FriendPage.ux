@@ -1,0 +1,6 @@
+<Page ux:Class="FriendPage">
+<Router ux:Dependency="router" />
+<JavaScript File="FriendPage.js" />
+<Text Clicked="{homeClicked}">Go Back</Text>
+
+</Page>

@@ -1,0 +1,6 @@
+<Page ux:Class="LightPage">
+<Router ux:Dependency="router" />
+<JavaScript File="LightPage.js" />
+<Text Clicked="{homeClicked}">Go Back</Text>
+
+</Page>

@@ -1,0 +1,6 @@
+<Page ux:Class="SketchPage">
+<Router ux:Dependency="router" />
+<JavaScript File="SketchPage.js" />
+<Text Clicked="{homeClicked}">Go Back</Text>
+
+</Page>

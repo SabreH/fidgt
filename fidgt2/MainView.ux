@@ -1,0 +1,12 @@
+<App>
+  <Router ux:Name="router" />
+    <Navigator DefaultPath="splash">
+        <SplashPage ux:Template="splash" router="router" />
+        <HomePage ux:Template="home" router="router" />
+        <LightPage ux:Template="light" router="router" />
+        <FriendPage ux:Template="friend" router="router" />
+        <SketchPage ux:Template="sketch" router="router" />
+        <AnimationPage ux:Template="animation" router="router" />
+        <CounterPage ux:Template="counter" router="router" />
+    </Navigator>
+</App>

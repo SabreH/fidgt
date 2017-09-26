@@ -1,0 +1,9 @@
+build/Local/Designer/cache/ux11/MainView.g.uno
+build/Local/Designer/cache/ux11/AnimationPage.g.uno
+build/Local/Designer/cache/ux11/CounterPage.g.uno
+build/Local/Designer/cache/ux11/FriendPage.g.uno
+build/Local/Designer/cache/ux11/HomePage.g.uno
+build/Local/Designer/cache/ux11/LightPage.g.uno
+build/Local/Designer/cache/ux11/SketchPage.g.uno
+build/Local/Designer/cache/ux11/SplashPage.g.uno
+build/Local/Designer/cache/ux11/fidgt.unoproj.g.uno

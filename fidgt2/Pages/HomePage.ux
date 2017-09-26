@@ -1,0 +1,13 @@
+<Page ux:Class="HomePage">
+<Router ux:Dependency="router" />
+<JavaScript File="HomePage.js" />
+
+
+<PageControl>
+       <Panel ux:Name="light" Clicked="{gotoPage1}" />
+       <Panel ux:Name="friend" Clicked="{gotoPage2}"/>
+       <Panel ux:Name="sketch" Clicked="{gotoPage3}" />
+       <Panel ux:Name="counter" Clicked="{gotoPage4}" />
+       <Panel ux:Name="animation" Clicked="{gotoPage5}" />
+   </PageControl>
+</Page>

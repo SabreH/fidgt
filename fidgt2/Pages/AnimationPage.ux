@@ -1,0 +1,6 @@
+<Page ux:Class="AnimationPage">
+<Router ux:Dependency="router" />
+<JavaScript File="AnimationPage.js" />
+<Text Clicked="{homeClicked}">Go Back</Text>
+
+</Page>
